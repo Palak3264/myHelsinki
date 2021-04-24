@@ -16,7 +16,7 @@ Now, you can view all the data on http://localhost:8080/api/v1/places
 
 # Startig the React application
 
-From the terminal, go to the path demo\src\main\webapp\reactjs and use command
+From the terminal, use command
 
 npm install
 npm start
